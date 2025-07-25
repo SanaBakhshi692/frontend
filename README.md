@@ -44,6 +44,9 @@ while building this Todo List, I also got more comfortable using vite and struct
 Make sure you have **Node.js** and **npm** installed.
 
 ```bash
+# clone the repository
+git clone https://github.com/SanaBakhshi692/frontend.git
+
 # Navigate into the project folder
 cd To-Do
 
